@@ -1,4 +1,4 @@
 GeneralDocs
 ===========
 
-General Documents related to SMSG
+General Documents related Java and SMS gateways
